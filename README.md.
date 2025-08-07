@@ -1,0 +1,25 @@
+# Diabetes Prediction System 🩺
+
+This project uses a Logistic Regression model to predict whether a person is diabetic based on medical attributes.
+
+## 🔍 Features Used:
+- Age
+- BMI
+- Blood Pressure
+- Blood Serum Levels (S1 to S6)
+
+## 🧠 ML Workflow:
+1. Load dataset
+2. Preprocess and convert target to binary
+3. Train-test split
+4. Train Logistic Regression model
+5. Evaluate accuracy
+6. Predict new data
+
+## 📊 Accuracy:
+Achieved ~75% accuracy using logistic regression on the modified diabetes dataset.
+
+## 👨‍💻 Built With:
+- Python
+- Scikit-learn
+- Google Colab
